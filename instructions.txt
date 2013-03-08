@@ -2,12 +2,20 @@ instructions
 ==========
 these are instructions
 
+step 1
 not really but casey said i should call it that
 
+step 2
 this file should move to an unstaged area
 
+step 3
 download git bash for windows
 
+step 4
 live and learn
 
-casey is being too modest. he knows his stuff
+step 5
+casey is being too modest.
+
+step 6
+he knows his stuff
