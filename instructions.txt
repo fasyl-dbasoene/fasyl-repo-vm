@@ -9,3 +9,5 @@ this file should move to an unstaged area
 download git bash for windows
 
 live and learn
+
+casey is being too modest. he knows his stuff
